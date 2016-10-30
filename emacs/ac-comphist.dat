@@ -1,0 +1,260 @@
+((("SUCCESS" .
+   [1 0 0 0 0 0 0])
+  ("object" .
+   [2 0 0 0 0 0])
+  ("mockState" .
+   [4 0 0 0 0 0 0 0 0])
+  ("valid" .
+   [1 0 0 0 0])
+  ("should" .
+   [1 0 0 0 0 0])
+  ("handler" .
+   [1 0 0 0 0 0 0])
+  ("API_GET_OFFERS_BY_STATION_DATE" .
+   [3 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("actionType" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("mockStoreObj" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("fireActionHook" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("actionHook" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("type" .
+   [10 0 0 0])
+  ("state" .
+   [6 0 0 0 0])
+  ("offerDetails" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("offers" .
+   [5 0 0 0 0 0])
+  ("offersLatLangReducer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("TODO" .
+   [1 0 0 0])
+  ("parse" .
+   [1 0 0 0 0])
+  ("stringify" .
+   [1 0 0 0 0 0 0 0 0])
+  ("JSON" .
+   [2 0 0 0])
+  ("js" .
+   [1 0])
+  ("bookOffer" .
+   [1 0 0 0 0 0 0 0 0])
+  ("undefined" .
+   [1 0 0 0 0 0 0 0 0])
+  ("body" .
+   [3 0 0 0])
+  ("CALL_API" .
+   [3 0 0 0 0 0 0 0])
+  ("obj" .
+   [3 0 0])
+  ("getGeoDataByBrowserIp" .
+   [1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("PAYLOADS" .
+   [4 0 0 0 0 0 0 0])
+  ("formFetchObjectWithBody" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("typeof" .
+   [1 0 0 0 0 0])
+  ("keys" .
+   [1 0 0 0])
+  ("label" .
+   [1 0 0 0 0])
+  ("name" .
+   [1 0 0 0])
+  ("car" .
+   [2 0 0])
+  ("age" .
+   [1 0 0])
+  ("string" .
+   [3 0 0 0 0 0])
+  ("toExist" .
+   [3 0 0 0 0 0 0])
+  ("array" .
+   [1 0 0 0 0])
+  ("toBeA" .
+   [6 0 0 0 0])
+  ("TextField" .
+   [1 0 0 0 0 0 0 0 0])
+  ("PersonalDetails" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("SPECIFIED_CONTRACTS" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("expect" .
+   [9 0 0 0 0 0])
+  ("Should" .
+   [4 0 0 0 0 0])
+  ("it" .
+   [6 0])
+  ("PERSONAL_DETAILS_FORM_CONTRACT" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PERSONAL_DETAILS" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("export" .
+   [1 0 0 0 0 0])
+  ("FORM_COMPONENT_SPECIFIED_CONTRACTS" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("FORM" .
+   [2 0 0 0])
+  ("Map" .
+   [3 0 0])
+  ("get" .
+   [4 0 0])
+  ("debugger" .
+   [1 0 0 0 0 0 0 0])
+  ("list" .
+   [2 0 0 0])
+  ("youngDriverData" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("sessionStorageMiddleware" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("localStorageMiddleware" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("produceReducer" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("generalFailure" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("generalSuccess" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("concat" .
+   [1 0 0 0 0 0])
+  ("Array" .
+   [1 0 0 0 0])
+  ("ACTION_HANDLERS" .
+   [6 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("reduce" .
+   [4 0 0 0 0 0])
+  ("log" .
+   [5 0 0])
+  ("reducer" .
+   [2 0 0 0 0 0 0])
+  ("logger" .
+   [0 0 0 1 0 0])
+  ("let" .
+   [0 0 5])
+  ("successAPIReducers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("requestFailureAPIReducers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("compose" .
+   [2 0 0 0 0 0 0])
+  ("requestAPIReducers" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("from" .
+   [2 0 0 0])
+  ("for" .
+   [1 0 0])
+  ("form" .
+   [1 0 0 0])
+  ("compso" .
+   [1 0 0 0 0 0])
+  ("requestRequestAPIReducers" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("API_SUCCESS_ACTIONS" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("requestSuccessAPIREd" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("request" .
+   [2 0 0 0 0 0 0])
+  ("FAILURE" .
+   [0 0 0 0 0 1 0])
+  ("produce" .
+   [1 0 0 0 0 0 0])
+  ("API" .
+   [4 0 0])
+  ("API_REQUEST_ACTIONS" .
+   [2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("genReducers" .
+   [3 0 0 0 0 0 0 0 0 0 2])
+  ("produceAPIObject" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 2 0 1])
+  ("return" .
+   [4 0 0 0 0 0])
+  ("action" .
+   [29 0 0 0 0 0])
+  ("map" .
+   [1 0 0])
+  ("actions" .
+   [2 0 0 0 0 0 0])
+  ("const" .
+   [18 0 0 0 0])
+  ("optionalBoldLabel" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bgC" .
+   [1 0 0])
+  ("PAYMENT" .
+   [1 0 0 0 0 0 0])
+  ("classes" .
+   [4 0 0 0 0 0 0])
+  ("src" .
+   [1 0 0])
+  ("foo" .
+   [1 0 0])
+  ("bar" .
+   [1 0 0])
+  ("container" .
+   [3 0 0 0 0 0 0 0 0])
+  ("containerWhite" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bgColors" .
+   [1 0 0 0 0 0 0 0])
+  ("PAYMENT_SECTION" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("regex" .
+   [1 0 0 0 0])
+  ("RegExp" .
+   [1 0 0 0 0 0])
+  ("exec" .
+   [1 0 0 0])
+  ("testString" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("toEqual" .
+   [10 0 0 0 0 0 0])
+  ("match" .
+   [2 0 0 0 0])
+  ("re" .
+   [2 0])
+  ("expected" .
+   [1 0 0 0 0 0 0 0])
+  ("test" .
+   [2 0 0 0])
+  ("a" .
+   [1])
+  ("group" .
+   [1 0 0 0 0])
+  ("result" .
+   [3 0 0 0 0 0])
+  ("var" .
+   [1 0 0])
+  ("store" .
+   [2 0 0 0 0])
+  ("initStore" .
+   [3 0 0 0 0 0 0 0 0])
+  ("dispatch" .
+   [3 0 0 0 0 0 0 0])
+  ("actionTestSetup" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dispac" .
+   [1 0 0 0 0 0])
+  ("latitude" .
+   [1 0 0 0 0 0 0 0])
+  ("radius" .
+   [1 0 0 0 0 0])
+  ("assign" .
+   [1 0 0 0 0 0])
+  ("slice" .
+   [1 0 0 0 0])
+  ("call" .
+   [1 0 0 0])
+  ("mockAction" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("correct" .
+   [1 0 0 0 0 0 0])
+  ("offer" .
+   [1 0 0 0 0])
+  ("f" .
+   [1])
+  ("payload" .
+   [1 0 0 0 0 0 0])))

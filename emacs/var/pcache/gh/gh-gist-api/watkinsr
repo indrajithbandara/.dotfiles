@@ -1,0 +1,8 @@
+;; Object gh/gh-gist-api/watkinsr
+;; EIEIO PERSISTENT OBJECT
+(gh-cache "gh/gh-gist-api/watkinsr"
+  :file "watkinsr"
+  :object-name "gh/gh-gist-api/watkinsr"
+  :version "25.1.1/0.4/gh-4"
+  :entries #s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8 data (("/users/watkinsr/gists" "GET" "55b421b9875ed128f478d78ded303a5db18d3a30") [eieio-class-tag--gh-cache-entry 1477748502.368993 nil nil nil "\"07555d5b0d13be243e3cdf8144a8db27\"" nil]))
+  :timestamp 1477758846.00075)

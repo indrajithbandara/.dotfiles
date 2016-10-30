@@ -1,0 +1,339 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/ryanwatkins/projects/tex/doc/" . "latex/")
+ ("/Users/ryanwatkins/projects/tex/tex/latex/" . "preview/")
+ ("/Users/ryanwatkins/projects/tex/tex/" . "latex/")
+ ("/Users/ryanwatkins/projects/tex/" . "doc/")
+ ("/Users/ryanwatkins/projects/career/" . "ryan/")
+ ("/Users/ryanwatkins/Downloads/" . "auctex-11.89/")
+ ("/Users/ryanwatkins/projects/resume/" . "en/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/Desktop/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/" . "Desktop/")
+ ("/Users/ryanwatkins/.emacs.d/elpa/" . "mocha-1.1/")
+ ("/Users/ryanwatkins/.nvm/versions/node/v6.6.0/" . "bin/")
+ ("/Users/ryanwatkins/.nvm/versions/node/" . "v6.6.0/")
+ ("/Users/ryanwatkins/.nvm/versions/" . "node/")
+ ("/Users/ryanwatkins/.nvm/" . "versions/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/Desktop/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/" . "Desktop/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/Desktop/" . "modules/")
+ ("/Users/ryanwatkins/.emacs.d/" . "site-lisp/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Desktop/" . "container/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Mobile/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/" . "Desktop/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/Map/" . "components/")
+ ("/Users/ryanwatkins/redux/examples/todomvc/src/" . "components/")
+ ("/Users/ryanwatkins/redux/examples/todomvc/" . "src/")
+ ("/Users/ryanwatkins/redux/examples/counter/src/" . "components/")
+ ("/Users/ryanwatkins/redux/examples/counter/" . "src/")
+ ("/Users/ryanwatkins/redux/examples/" . "todomvc/")
+ ("/Users/ryanwatkins/redux/" . "examples/")
+ ("/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/sixtgoorange/com.sixt.api.v1.apps/service/" . "recommender/")
+ ("/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/sixtgoorange/com.sixt.api.v1.apps/" . "service/")
+ ("/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/sixtgoorange/" . "com.sixt.api.v1.apps/")
+ ("/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/" . "sixtgoorange/")
+ ("/Users/ryanwatkins/projects/books/" . "mostly-adequate-guide/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/tests/mock/" . "mobile-ws/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Map/" . "container/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferList/" . "modules/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/tests/" . "mock/")
+ ("/Users/ryanwatkins/projects/career/ryan/resume/resume/" . "en/")
+ ("/Users/ryanwatkins/projects/career/ryan/resume/" . "resume/")
+ ("/Users/ryanwatkins/projects/career/ryan/" . "resume/")
+ ("/Users/ryanwatkins/.emacs.d/site-lisp/" . "podcaster/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Datetimeselection/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Home/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Stationpicker/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/layouts/" . "CoreLayout/")
+ ("/Users/" . "ryanwatkins/")
+ ("/" . "Users/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/sassResources/" . "variables/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/server/" . "middleware/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Offerconfig/" . "components/")
+ ("/Users/ryanwatkins/projects/dev/golang/src/" . "bitbucket.org/")
+ ("/Users/ryanwatkins/projects/dev/golang/" . "src/")
+ ("/Users/ryanwatkins/" . "projects/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/" . "build/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/" . "Desktop/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/" . "PersonalDetails/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/" . "reducers/")
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/" . "CreditCard/")
+ ("/Users/ryanwatkins/projects/dev/" . "phoenix/")
+ ("/Users/ryanwatkins/projects/" . "tex/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/ryanwatkins/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/reducers/"
+ "/Users/ryanwatkins/projects/tex/"
+ "/Users/ryanwatkins/projects/resume/en/"
+ "/Users/ryanwatkins/projects/books/"
+ "/Users/ryanwatkins/Downloads/auctex-11.89/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/actions/"
+ "/Users/ryanwatkins/projects/dev/phoenix/build/"
+ "/Users/ryanwatkins/.emacs.d/elpa/mocha-1.1/"
+ "/Users/ryanwatkins/projects/dev/phoenix/"
+ "/Users/ryanwatkins/.emacs.d/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/helpers/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/store/"
+ "/Users/ryanwatkins/.emacs.d/lisp/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/Desktop/components/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/"
+ "/Users/ryanwatkins/projects/dev/phoenix/config/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/CreditCard/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/contracts/"
+ "/Users/ryanwatkins/projects/dev/phoenix/tests/"
+ "/Users/ryanwatkins/.nvm/versions/node/v6.6.0/bin/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/Desktop/modules/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/constants/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/"
+ "/Users/ryanwatkins/projects/dev/phoenix/contracts/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferListBar/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferListGrid/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/Desktop/components/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/Desktop/container/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/TextField/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/CheckboxField/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/Desktop/components/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/sassResources/variables/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/TabList/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/Tab/"
+ "/Users/ryanwatkins/projects/dev/emacs/"
+ "/Users/ryanwatkins/.emacs.d/site-lisp/podcaster/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Desktop/container/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Mobile/components/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferList/modules/"
+ "/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferList/"
+ "/Users/ryanwatkins/projects/dev/"
+ "/sudo:root@127.0.0.1:/Users/ryanwatkins/projects/dev/haskell/"
+ "/Users/ryanwatkins/projects/dev/haskell/"
+ "/Users/ryanwatkins/projects/dev/phoenix/eslint-plugin/"
+ "/Users/ryanwatkins/redux/examples/todomvc/src/components/"
+ "/Users/ryanwatkins/redux/examples/todomvc/src/containers/"
+ "/Users/ryanwatkins/redux/examples/counter/src/components/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".gitconfig"
+ "offerConfigReducer.js"
+ "stationPicker.js"
+ "apiReducers.js"
+ "samplefile.tex"
+ "resume.tex"
+ "preview-latex.pdf"
+ "README"
+ "INSTALL"
+ "functional_programming_scala.pdf"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/ryanwatkins/" (22548 42554 0 0) "zlib-1.2.8/" "VirtualBox VMs/" "vim-jsdoc/" "twittering-mode/" "TODO.org" "tmux.conf" "test.txt" "tern/" "termpdf2/" "tags" "spotify.el/" "site-lisp/" "redux/" "README.org" "Public/" "projects/" "powerline/" "poppler/" "podcaster/" "Pictures/" "pdf-tools/" "path" "osx-terminal-themes/" "node_modules/" "News/" "Music/" "mupdf/" "Movies/" "mostly-adequate-guide/" "mastering-emacs-in-one-year-guide.org" "Mail/" "MacPorts-2.3.4/" "Library/" "helm-ash/" "gist.el/" "fonts/" "files.txt" "feh_043294_000001_filelist" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bin/" "Applications/" ".zshrc" ".zshenv" ".zprofile" ".zpreztorc" ".zprezto/" ".zlogout" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump" ".Xauthority" ".wiki/" ".wget-hsts" ".w3m/" ".vimrc.swp" ".vimrc" ".viminfo.tmp" ".viminfo" ".vim-fuf-data/" ".vim/" ".v8flags.5.1.281.83.ryanwatkins.json" ".v8flags.5.0.71.57.ryanwatkins.json" ".Trash/" ".tmux.conf" ".tmux/" ".terminfo/" ".ssh/" ".smex-items" ".serverauth.45483" ".rnd" ".profile" ".oracle_jre_usage/" ".nvm/" ".npm/" ".notes" ".node_repl_history" ".node-gyp/" ".newsrc.eld" ".newsrc-dribble" ".newsrc" ".local/" ".lesshst" ".jiraclirc.json" ".jira/" ".irssi/" ".hgignore_global" ".gnus.el" ".gitignore_global" ".gitconfig" ".ghc/" ".gem/" ".fzf.zsh" ".fzf.bash" ".fzf/" ".eslintrc" ".emacs.old.22.09" ".emacs.old" ".emacs.keyfreq" ".emacs.d/" ".DS_Store" ".dropbox/" ".davmail.properties" ".cups/" ".ctags" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_sessions/" ".bash_profile.macports-saved_2016-08-20_at_20:51:32" ".bash_profile" ".bash_history" ".backups/" ".babel.json" ".authinfo" "../" "./")
+
+ ("/Users/ryanwatkins/.w3m/" (22548 42220 0 0) "w3msrc73781-0" "w3msrc49330-0" "w3msrc43622-0" "w3msrc43281-0" "w3msrc3093-0" "w3msrc21902-0" "w3msrc20662-0" "w3msrc19594-0" "w3msrc16374-0" "qpv9i_I4jYU.mkv" "prv_<none>.log" "Gq0hG_om9xY.f298.mp4.part" "get.php" "_region_.tex" "_region_.log" ".sessions" ".cookie" ".arrived" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/reducers/" (22547 2109 0 0) "timePickerReducer.js" "stationPicker.js" "personalDetails.js" "offerListBar.js" "offerList.js" "offerConfigReducer.js" "modal.js" "mobileDateTimePicker.js" "mapReducer.js" "map.js" "index.js" "datePickerReducer.js" "client.js" "bookingData.js" "apiReducers.js" ".tern-port" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/actions/" (22546 64257 0 0) "timePicker.spec.js" "timePicker.js" "stationPicker.spec.js" "stationPicker.js" "personalDetails.spec.js" "personalDetails.js" "offerListBar.js" "offerList.js" "offerConfig.js" "modal.js" "mobileDateTimePicker.js" "map.spec.js" "map.js" "datePicker.spec.js" "datePicker.js" "client.spec.js" "client.js" "bookingData.spec.js" "bookingData.js" "api2.spec.js" "api2.js" "api.js" ".tern-port" "../" "./")
+
+ ("/Users/ryanwatkins/projects/tex/doc/latex/" (22546 27633 0 0) "styles/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/tex/doc/" (22546 27633 0 0) "latex/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/tex/tex/latex/preview/" (22546 27631 0 0) "prtracingall.def" "prtightpage.def" "prshowlabels.def" "prshowbox.def" "prlyx.def" "prfootnotes.def" "preview.sty" "prcounters.def" "prauctex.def" "prauctex.cfg" "../" "./")
+
+ ("/Users/ryanwatkins/projects/tex/tex/latex/" (22546 27631 0 0) "preview/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/tex/tex/" (22546 27631 0 0) "latex/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/tex/" (22546 29064 0 0) "tex/" "samplefile.tex" "doc/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/resume/en/" (22546 28982 0 0) "resume.tex.tex" "resume.tex.pdf" "resume.tex.bak" "resume.tex" "resume.pdf" "resume.log" "resume.dvi" "res.cls.bak" "res.cls" "references.tex" "references.pdf" "references.log" "references.dvi" "README.md" "README" "prv_resume.log" "prv_resume.fmt" "Makefile" "ltxpng/" "LICENSE" "_region_.tex" "_region_.pdf" "_region_.log" "../" "./")
+
+ ("/Users/ryanwatkins/.emacs.d/" (22546 28839 0 0) "var/" "url/" "tramp" "snippets/" "site-lisp/" "recentf" "README.org" "pyim/" "misc/" "lisp/" "init.el" "ido.last" "history" "eshell/" "elpa/" "custom-set-variables.el" "company-statistics-cache.el" "BETA.org" "auto-save-list/" "auctex.el" "ac-comphist.dat" ".session" ".org-id-locations" ".mc-lists.el" ".gitignore" ".git/" ".emacs.desktop.lock" ".emacs.desktop" "#init.el#" "../" "./")
+
+ ("/Users/ryanwatkins/projects/resume/" (22544 46589 0 0) "en2/" "en/" "de/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/career/ryan/" (22514 29891 0 0) "resume/" "results/" "res/" "prof.jpg" "portfolio/" "part-time/" "dokumente/" "budget/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/career/" (22543 20564 0 0) "wong/" "ryan/" "hg/" ".DS_Store" "../" "./")
+
+ ("/Users/ryanwatkins/projects/books/" (22546 28388 0 0) "wadler.pdf" "unix_superuser.pdf" "unix_programming_env.pdf" "scala_impatient.pdf" "redux-without-profanity.pdf" "preview-latex.pdf" "org-mode.pdf" "onlisp.ps.Z" "nancypaper.pdf" "mostly-adequate-guide/" "microservices_fine_grained.pdf" "literate_programming.pdf" "literate_programming.djvu" "knuth_literate.pdf" "haskell_great_good.pdf" "go_in_action.pdf" "functional_programming_scala.pdf" "emacs.pdf" "emacs/" "economics_contracts.pdf" "ddd_js.pdf" "ddd_complexity.pdf" "ddd.pdf" "contract_theory.pdf" "building_micro.pdf" "../" "./")
+
+ ("/Users/ryanwatkins/Downloads/auctex-11.89/" (22546 27614 0 0) "toolbar-x.elc" "toolbar-x.el" "TODO" "texmathp.elc" "texmathp.el" "tex.elc" "tex.el" "tex-wizard.el" "tex-style.elc" "tex-style.el" "tex-site.el.out" "tex-site.el.in" "tex-site.el" "tex-mik.elc" "tex-mik.el" "tex-jp.elc" "tex-jp.el" "tex-info.elc" "tex-info.el" "tex-font.elc" "tex-font.el" "tex-fold.elc" "tex-fold.el" "tex-buf.elc" "tex-buf.el" "tex-bar.elc" "tex-bar.el" "style/" "RELEASE" "README" "prv-xemacs.el" "prv-install.el" "prv-emacs.elc" "prv-emacs.el" "PROBLEMS.preview" "preview.elc" "preview.el.in" "preview.el" "preview-latex.spec" "preview-latex.el~" "preview-latex.el" "plain-tex.elc" "plain-tex.el" "multi-prompt.elc" "multi-prompt.el" "mkinstalldirs" "Makefile.in" "Makefile" "lpath.el" "latex.elc" "latex.el" "latex/" "INSTALL.windows" "install-sh" "INSTALL" "images/" "font-latex.elc" "font-latex.el" "FAQ" "doc/" "COPYING" "context.elc" "context.el" "context-nl.elc" "context-nl.el" "context-en.elc" "context-en.el" "configure.ac" "configure" "config.status" "config.log" "circ.tex" "CHANGES" "ChangeLog-preview.1" "ChangeLog-preview" "ChangeLog" "bib-cite.elc" "bib-cite.el" "auto-loads.el~" "auto-loads.el" "auctex.spec" "auctex.el.in" "auctex.el" "aclocal.m4" "../" "./")
+
+ ("/Users/ryanwatkins/Downloads/" (22546 28058 0 0) "report.pdf" "reisekosten_september.xls" "icons_logos/" "auctex-11.89.tar.gz" "auctex-11.89/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/" (22546 22159 0 0) "webpack-fixes/" "TODO.org" "testing/" "ssh_legacy.scpt" "README2.md" "phoenix/" "PatternsOfSoftware.pdf" "om/" "icons/" "haskell/" "golang/" "example.txt" "example" "emacs/" "diff/" "data/" "changed_files/" "api_maps/" ".DS_Store" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/build/" (22544 42300 0 0) "webpack.config.js" "karma.conf.js" ".tern-port" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/" (22544 42435 0 0) "vendor/" "tests/" "src/" "server-mock/" "server/" "README.md" "package.json" "npm-debug.log.851871997" "npm-debug.log.1111365771" "nodemon.json" "node_modules/" "etc/" "eslint-plugin/" "dist/" "create_tests.sh" "coverage/" "CONTRIBUTING.md" "config/" "build.xml" "build.properties" "build/" "blueprints/" "bin/" ".swp" ".reduxrc" ".gitignore" ".githooks/" ".git/" ".eslintrc" ".eslintignore" ".editorconfig" ".DS_Store" ".dir-locals.el" ".babelrc" "#%2Aediff-merge%2A#25653AWY#" "../" "./")
+
+ ("/Users/ryanwatkins/.emacs.d/elpa/" (22541 46601 0 0) "yasnippet-0.10.0/" "yaml-mode-20160902.1142/" "yagist-0.8.12/" "writeroom-mode-3.5/" "workgroups2-20141102.1122/" "with-editor-2.5.3/" "wgrep-20141016.1656/" "w3m-20160927.633/" "visual-fill-column-1.9/" "unfill-0.1/" "tidy-20111222.956/" "textile-mode-20151203.53/" "tern-auto-complete-0.20.0/" "tern-0.20.0/" "tagedit-1.4.0/" "swiper-20160921.138/" "spotify-0.3.3/" "smex-3.0/" "skewer-mode-1.6.2/" "simple-httpd-20160902.1800/" "session-20120510.1700/" "scss-mode-0.5.0/" "scratch-20120830.1028/" "sass-mode-3.0.18/" "s-1.11.0/" "rvm-1.4.0/" "ruby-compilation-2.11/" "robe-20160926.656/" "rinari-2.11/" "request-0.2.0/" "regex-tool-20160907.2129/" "rainbow-delimiters-2.1.3/" "quack-20160410.207/" "pyvenv-1.9/" "popup-0.5.3/" "pomodoro-20150716.1046/" "pkg-info-0.6/" "pcache-0.4.1/" "paredit-24/" "page-break-lines-0.11/" "packed-20160523.600/" "nvm-0.2.0/" "neotree-0.2.1/" "mwe-log-commands-20100703.541/" "multiple-cursors-1.4.0/" "multi-term-20160619.233/" "move-text-20160430.1730/" "mocha-1.1/" "markdown-mode-2.1/" "magit-popup-2.8.0/" "magit-gh-pulls-0.5.2/" "magit-2.8.0/" "lua-mode-20160821.1216/" "logito-0.1/" "link-1.10/" "less-css-mode-0.20/" "legalese-20150820.1024/" "jump-2.3/" "js2-mode-20160623/" "ivy-20160926.221/" "inflections-20121016.157/" "inf-ruby-20160617.551/" "idomenu-20141123.1320/" "ibuffer-vc-0.10/" "hydra-0.13.6/" "htmlize-20130207.1202/" "hl-sexp-1.0.0/" "highlight-indentation-0.7.0/" "helm-core-2.3.0/" "helm-20161023.1200/" "haskell-mode-16.1/" "haml-mode-3.1.9/" "groovy-mode-20160504.211/" "gitignore-mode-1.2.2/" "gitconfig-mode-20160710.1913/" "git-timemachine-3.0/" "git-messenger-0.17/" "git-link-0.4.3/" "git-gutter-0.90/" "git-commit-2.8.0/" "gh-0.10.0/" "ggtags-0.8.11/" "fringe-helper-1.0.1/" "flyspell-lazy-0.6.10/" "flymake-ruby-0.8/" "flymake-lua-20140310.230/" "flymake-jslint-0.23/" "flymake-easy-0.10/" "flymake-css-0.3/" "flymake-coffee-0.12/" "flycheck-29/" "flx-ido-0.6.1/" "flx-0.6.1/" "findr-20130824.507/" "find-file-in-project-5.2.4/" "f-0.18.2/" "expand-region-0.10.0/" "exec-path-from-shell-1.11/" "erlang-20160831.740/" "epl-0.8/" "emmet-mode-1.0.8/" "elpy-1.12.0/" "dsvn-20130120.1257/" "dropdown-list-20120329.936/" "dired+-20160920.1522/" "diminish-0.45/" "dictionary-1.10/" "define-word-0.1.0/" "dash-functional-2.13.0/" "dash-2.13.0/" "crontab-mode-20090510.1355/" "cpputils-cmake-5.5/" "counsel-20160926.812/" "connection-1.10/" "company-c-headers-20150801.901/" "company-20160829.1206/" "color-theme-20080305.34/" "coffee-mode-0.6.3/" "cmake-mode-3.6.2/" "cliphist-0.4.0/" "buffer-move-20160615.1103/" "bookmark+-20160921.1035/" "bongo-1.0/" "bbdb-20160720.2318/" "avy-0.4.0/" "auto-yasnippet-0.3.0/" "auto-complete-1.5.1/" "auto-compile-20160711.1012/" "async-1.9/" "archives/" "anaphora-1.0.0/" "ace-window-0.9.0/" "ace-mc-20160408.1737/" "ace-link-0.4.0/" "ace-jump-mode-2.0/" "ac-js2-20140906.442/" "../" "./")
+
+ ("/Users/ryanwatkins/.nvm/" (22541 47064 0 0) "versions/" "update_test_mocks.sh" "test/" "ROADMAP.md" "README.markdown" "package.json" "nvm.sh" "nvm-exec" "Makefile" "LICENSE.md" "install.sh" "CONTRIBUTING.md" "bash_completion" "alias/" ".travis.yml" ".npmignore" ".gitignore" ".gitattributes" ".git/" ".cache/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/" (22544 30576 0 0) "StyleGuide/" "StationPicker/" "PersonalDetails/" "OfferList/" "OfferConfig/" "Map/" "index.js" "Home/" "Extras/" "DateTimeSelection/" "Confirmation/" "_ExampleRoute/" ".DS_Store" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/TabList/" (22544 32306 0 0) "TabList.scss" "TabList.js" "index.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/Desktop/components/" (22544 32306 0 0) "PersonalDetailsView.scss" "PersonalDetailsView.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/CheckboxField/" (22544 32318 0 0) "index.js" "CheckboxField.scss" "CheckboxField.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/" (22544 32618 0 0) "Mobile/" "index.js" "Desktop/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/TextField/" (22544 32306 0 0) "TextField.spec.js" "TextField.scss" "TextField.js" "index.js" ".TextField.js.swp" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferListBar/" (22544 32306 0 0) "OfferListBarContainer.js" "OfferListBar.spec.js" "OfferListBar.scss" "OfferListBar.js" "index.js" "assets/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/Desktop/modules/" (22544 32306 0 0) "validate.js" "selectors.js" "reducer.js" "actions.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/tests/" (22544 32306 0 0) "translations/" "test-bundler.js" "mock/" "fixtures/" ".eslintrc" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/contracts/" (22544 32306 0 0) "index.spec.js" "index.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/config/" (22544 32557 0 0) "svg.js" "proxies.js" "languages.js" "index.js" "environments.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/" (22544 32618 0 0) "Mobile/" "index.js" "Desktop/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/Desktop/components/" (22544 32306 0 0) "PersonalDetailsView.scss" "PersonalDetailsView.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/store/" (22544 32648 0 0) "openingHoursMock.json" "offers_mock.json" "createStore.js" "createMiddleware.js" ".createStore.js.swo" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/helpers/" (22544 33156 0 0) "testHelper.js.rej" "testHelper.js" "sortHelper.js" "setClientDeviceType.js" "routeSetupHelper.js" "requestHelper.js" "reduxFormHelper.js" "priceHelper.spec.js" "priceHelper.mock.spec.js" "priceHelper.js" "openingHoursHelper.js" "npm-debug.log" "logger.js" "deviceTypeHelper.js" "dateTimeHelper.js" "creditcard.spec.js" "creditcard.js" ".tern-port" ".setClientDeviceType.js.swp" ".mobileDetectHelper.js.swp" "../" "./")
+
+ ("/Users/ryanwatkins/.emacs.d/lisp/" (22544 30975 0 0) "init-zencoding-mode.el" "init-yasnippet.el" "init-xterm.el" "init-writting.el" "init-workgroups2.el" "init-windows.el" "init-which-func.el" "init-web-mode.el" "init-utils.el" "init-uniquify.el" "init-term-mode.el" "init-spelling.el" "init-slime.el" "init-site-lisp.el" "init-sh.el" "init-sessions.el" "init-semantic.el" "init-ruby-mode.el" "init-python-mode.el" "init-pomodoro.el" "init-org.el" "init-multiple-cursors.el" "init-moz.el" "init-modeline.el" "init-misc.el" "init-misc-lazy.el" "init-markdown.el" "init-lua-mode.el" "init-lisp.el" "init-linum-mode.el" "init-lazy-key.el" "init-keyfreq.el" "init-javascript.el" "init-ivy.el" "init-ido.el" "init-ibuffer.el" "init-hydra.el" "init-httpd.el" "init-hs-minor-mode.el" "init-hippie-expand.el" "init-haskell.el" "init-gui-frames.el" "init-gud.el" "init-gtags.el" "init-golang.el" "init-gnus.el" "init-git.el" "init-frame-hooks.el" "init-fonts.el" "init-flymake.el" "init-exec-path.el" "init-evil.el" "init-erlang.el" "init-emacspeak.el" "init-emacs-w3m.el" "init-elpa.el~" "init-elpa.el" "init-elisp.el" "init-dired.el" "init-ctags.el" "init-css.el" "init-crontab.el" "init-cperl-mode.el" "init-compat.el" "init-company.el" "init-color-theme.el" "init-clipboard.el" "init-chinese-pyim.el" "init-cc-mode.el" "init-bbdb.el" "init-autoload.el" "init-artbollocks-mode.el" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/" (22544 32306 0 0) "store/" "static/" "sassResources/" "routes/" "reducers/" "make_component.sh" "main.js" "layouts/" "index.html" "i18n/" "hoc/" "helpers/" "contracts/" "containers/" "constants/" "config/" "components/" "assets/" "actions/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/" (22543 25927 0 0) "version8.txt" "ugly.pdf" "tex/" "resume/" "PLAN9NOTDEADYET.pdf" "dot_go_ticket.pdf" "dev/" "contract_theory.djvu" "career/" "books/" "2015-01-21-Emacs-Chat-Steve-Purcell.mp3" ".DS_Store" "(The Nature of Order) Christopher Alexander-The Phenomenon of Life_ Nature of Order, Book 1_ An Essay on the Art of Building and the Nature of the Universe (The Nature of Order)-CES Publishing (2004).pdf" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/sassResources/variables/" (22519 29893 0 0) "_typography.scss" "_sizes.scss" "_rem-values.scss" "_colors.scss" "_breakpoints.scss" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/Desktop/container/" (22543 31255 0 0) "OfferListContainer.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/Desktop/components/" (22543 31255 0 0) "OfferListView.scss" "OfferListView.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferListGrid/" (22543 31255 0 0) "OfferListGrid.scss" "OfferListGrid.js" "index.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/" (22544 24322 0 0) "TimePicker/" "TimeButton/" "TextField/" "TabList/" "StationPicker/" "SlideShow/" "Select/" "SearchEngine/" "OpeningHours/" "OfferPrice/" "OfferListSlider/" "OfferListItemDummy/" "OfferListItem/" "OfferListGrid/" "OfferListBar/" "OfferInfo/" "Modal/" "MobileDateTimePicker/" "Menu/" "Map/" "Logo/" "LoginButton/" "index.js" "IconList/" "FormOfferBar/" "FormHeader/" "FooterMobile/" "Footer/" "ExtrasList/" "Extra/" "EquipmentList/" "DateTimePicker/" "DatePicker/" "DateButton/" "CreditCard/" "CheckList/" "CheckboxField/" "Button/" ".DS_Store" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/constants/" (22543 31254 0 0) "stationChoiceTypes.js" "routePaths.js" "prices.js" "deviceTypes.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/CreditCard/" (22543 31254 0 0) "index.js" "DropDownMenu.scss" "DropDownMenu.js" "CreditCard.scss" "CreditCard.js" "assets/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/PersonalDetails/Desktop/" (22542 4974 0 0) "modules/" "index.js" "container/" "components/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/config/" (22479 63911 0 0) "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/Desktop/" (22542 4974 0 0) "modules/" "index.js" "container/" "components/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/contracts/" (22541 44704 0 0) "index.js" ".tern-port" ".#index.js" "../" "./")
+
+ ("/usr/" (22451 14643 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "adic/" "../" "./")
+
+ ("/usr/local/" (22499 56204 0 0) "zlib/" "var/" "share/" "opt/" "lib/" "include/" "Homebrew/" "Frameworks/" "etc/" "Cellar/" "Caskroom/" "bin/" "../" "./")
+
+ ("/usr/local/Cellar/" (22512 15106 0 0) "zsh/" "youtube-dl/" "xz/" "xvid/" "x264/" "wget/" "w3m/" "vim/" "universal-ctags/" "tmux/" "tidy-html5/" "the_silver_searcher/" "sqlite/" "shpotify/" "sdcv/" "sbcl/" "ruby/" "readline/" "python3/" "python/" "pygtk/" "pygobject/" "py2cairo/" "powerline/" "popt/" "poppler/" "pkg-config/" "pixman/" "perl/" "pcre/" "pangomm/" "pango/" "openssl/" "openjpeg/" "node/" "nettle/" "mupdf-tools/" "mupdf/" "mpv/" "mpfr/" "mercurial/" "markdown/" "lzlib/" "lua/" "little-cms2/" "little-cms/" "libyaml/" "libxml2/" "libtool/" "libtiff/" "libtasn1/" "libsigsegv/" "libsigc++/" "librsvg/" "libpng/" "libpeas/" "libmpc/" "libffi/" "libexif/" "libevent/" "libepoxy/" "libcroco/" "libass/" "lame/" "jpeg/" "iso-codes/" "isl/" "irssi/" "inkscape/" "imlib2/" "imagemagick/" "icu4c/" "icdiff/" "htop/" "hicolor-icon-theme/" "harfbuzz/" "gtksourceview3/" "gtkmm/" "gtk-mac-integration/" "gtk+3/" "gtk+/" "gsl/" "gsettings-desktop-schemas/" "gobject-introspection/" "go16/" "go/" "gnutls/" "gnupg/" "gnome-icon-theme/" "gmp/" "global/" "glibmm/" "glib/" "gist/" "giflib/" "ghostscript/" "gettext/" "gedit/" "gdk-pixbuf/" "gdbm/" "gcc/" "gawk/" "fribidi/" "freetype/" "fontconfig/" "ffmpeg/" "feh/" "enchant/" "emacs/" "djvulibre/" "djvu2pdf/" "delve/" "curl/" "ctags/" "cmake/" "clisp/" "chromium/" "cairomm/" "cairo/" "boost/" "bdw-gc/" "bash/" "automake/" "autoconf/" "atkmm/" "atk/" "aspell/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/" (22504 6552 0 0) "25.1/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/25.1/" (22504 6686 0 0) "var/" "share/" "README" "libexec/" "INSTALL_RECEIPT.json" "homebrew.mxcl.emacs.plist" "Emacs.app/" "COPYING" "ChangeLog" "bin/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/25.1/share/" (22504 6657 0 0) "man/" "info/" "icons/" "emacs/" "applications/" "appdata/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/25.1/share/emacs/" (22504 6673 0 0) "site-lisp/" "25.1/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/25.1/share/emacs/25.1/" (22504 6673 0 0) "site-lisp/" "lisp/" "etc/" "../" "./")
+
+ ("/usr/local/Cellar/emacs/25.1/share/emacs/25.1/etc/" (22504 6683 0 0) "yow.lines" "WHY-FREE" "tutorials/" "TODO" "themes/" "THE-GNU-PROJECT" "TERMS" "srecode/" "spook.lines" "ses-example.ses" "schema/" "rgb.txt" "refcards/" "README" "publicsuffix.txt.gz" "ps-prin1.ps" "ps-prin0.ps" "PROBLEMS" "package-keyring.gpg" "ORG-NEWS" "org/" "ORDERS" "NXML-NEWS" "nxml/" "NEXTSTEP" "NEWS.24" "NEWS.23" "NEWS.22" "NEWS.21" "NEWS.20" "NEWS.19" "NEWS.18" "NEWS.1-17" "NEWS" "MORE.STUFF" "MH-E-NEWS" "MACHINES" "LINUX-GNU" "JOKES" "images/" "HISTORY" "HELLO" "grep.txt" "gnus-tut.txt" "GNUS-NEWS" "gnus/" "GNU" "future-bug" "FTP" "forms/" "ETAGS.README" "ETAGS.EBNF" "ERC-NEWS" "enriched.txt" "emacs.icon" "emacs.desktop" "emacs.appdata.xml" "emacs-buffer.gdb" "edt-user.el" "e/" "DOC" "DISTRIB" "DEVEL.HUMOR" "DEBUG" "COPYING" "compilation.txt" "charsets/" "CENSORSHIP" "CALC-NEWS" "AUTHORS" "../" "./")
+
+ ("/Users/ryanwatkins/.emacs.d/elpa/mocha-1.1/" (22538 5835 0 0) "mocha.elc" "mocha.el" "mocha-pkg.el" "mocha-autoloads.el" "../" "./")
+
+ ("/Users/ryanwatkins/.nvm/versions/node/v6.6.0/bin/" (22489 35171 0 0) "npm" "node" "../" "./")
+
+ ("/Users/ryanwatkins/.nvm/versions/node/v6.6.0/" (22506 30371 0 0) "share/" "README.md" "LICENSE" "lib/" "include/" "etc/" "CHANGELOG.md" "bin/" "../" "./")
+
+ ("/Users/ryanwatkins/.nvm/versions/node/" (22506 30370 0 0) "v6.6.0/" "../" "./")
+
+ ("/Users/ryanwatkins/.nvm/versions/" (22506 30370 0 0) "node/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/books/mostly-adequate-guide/" (22499 51636 0 0) "TRANSLATIONS.md" "SUMMARY.md" "README.md" "LICENSE.md" "images/" "feedback_loop.md" "FAQ.md" "cover.jpg" "CONTRIBUTING.md" "code/" "ch9.md" "ch8.md" "ch7.md" "ch6.md" "ch5.md" "ch4.md" "ch3.md" "ch2.md" "ch10.md" "ch1.md" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/Desktop/" (22528 63589 0 0) "modules/" "index.js" "container/" "components/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferList/" (22528 63589 0 0) "Mobile/" "index.js" "Desktop/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/golang/" (22453 42338 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/golang/src/" (22508 45329 0 0) "test/" "gopkg.in/" "golang.org/" "github.com/" "bitbucket.org/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/sixtgoorange/com.sixt.api.v1.apps/contracts/" (22453 45660 0 0) "obelightws/" "mobilews/" "localeresolver/" "api/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Mobile/components/" (22534 17889 0 0) "OfferconfigView.scss" "OfferconfigView.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Desktop/container/" (22534 17890 0 0) "OfferConfigContainer.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/sassResources/" (22518 9694 0 0) "variables/" "mixins/" "index.scss" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/Tab/" (22533 59521 0 0) "Tab.scss" "Tab.js" "index.js" ".tern-port" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/emacs/vid/" (22498 35378 0 0) "extending-emacs-rocks-08.mov" "extending-emacs-rocks-07.mov" "extending-emacs-rocks-06.mov" "extending-emacs-rocks-05.mov" "extending-emacs-rocks-04.mov" "extending-emacs-rocks-03.mov" "extending-emacs-rocks-02.mov" "extending-emacs-rocks-01.mov" "../" "./")
+
+ ("/Users/ryanwatkins/.emacs.d/site-lisp/podcaster/" (22532 57305 0 0) "podcaster.el" "../" "./")
+
+ ("/Users/ryanwatkins/.emacs.d/site-lisp/" (22513 22581 0 0) "yari/" "wxwidgets-help/" "window-numbering/" "which-key/" "web-mode/" "visual-regexp/" "vimrc-mode/" "twittering-mode/" "todochiku-icons/" "subtitles/" "stripe-buffer/" "string-edit/" "slime-2013-04-05/" "simpleclip/" "sdcv/" "rest-api/" "rainbow-mode/" "pos-tip/" "podcaster/" "org2nikola/" "org-mime/" "moz/" "keyfreq/" "js2-refactor/" "js-doc/" "js-comint/" "issue-tracker/" "idle-require/" "highlight-symbol/" "goto-chg/" "go-mode/" "gnus-article-treat-patch/" "gmail2bbdb/" "github-notifier/" "general.el/" "flymake-cursor/" "find-by-pinyin-dired/" "find-and-ctags/" "fastdef/" "evil-visualstar/" "evil-surround/" "evil-numbers/" "evil-nerd-commenter/" "evil-matchit/" "evil-mark-replace/" "evil-exchange/" "evil-escape/" "evil/" "etags-select/" "elpa-mirror/" "doxygen.el/" "direx/" "delim-pad/" "cygwin/" "csv-mode/" "confluence-edit/" "company-statistics/" "color-theme-molokai/" "chinese-pyim/" "cb/" "browse-kill-ring/" "auto-save/" "artbollocks-mode/" "ac-js2/" "../" "./")
+
+ ("/Users/" (22483 54400 0 0) "Shared/" "ryanwatkins/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/emacs/" (22498 35378 0 0) "vid/" "exec-path-from-shell-1.11.zip" "exec-path-from-shell-1.11.tar.gz" "evil.pdf" "doc.pdf~" "doc.pdf" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/haskell/" (22529 2144 0 0) "ex1.~2~" "ex1.~1~" "ex1" "baby.hs.~2~" "baby.hs.~1~" "baby.hs" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferList/modules/" (22532 33886 0 0) "selectors.spec.js" "selectors.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Desktop/" (22528 63589 0 0) "modules/" "index.js" "container/" "components/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/Mobile/" (22528 63589 0 0) "modules/" "index.js" "container/" "components/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/OfferConfig/" (22528 63589 0 0) "Mobile/" "index.js" "Desktop/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferList/" (22532 32154 0 0) "OfferListContainer.js" "OfferList.spec.js" "modules/" "index.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/Map/components/" (22528 62581 0 0) "Map.scss" "Map.js" "googleMapUtils.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Personaldetails/components/" (22528 63589 0 0) ".PersonalDetails.scss.swo" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferListItem/" (22528 63589 0 0) "OfferListItem.scss" "OfferListItem.js" "index.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/FormOfferBar/" (22528 61664 0 0) "index.js" "FormOfferBar.scss" "FormOfferBar.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/FormHeader/" (22528 61664 0 0) "index.js" "FormHeader.scss" "FormHeader.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/components/OfferPrice/" (22528 63589 0 0) "OfferPriceTotal/" "OfferPriceLarge/" "OfferPriceDifference/" "OfferPriceDaily/" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Styleguide/" (22528 63589 0 0) "StyleGuideView.scss" "StyleGuideView.js" "index.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/containers/" (22528 61664 0 0) "AppContainer.js" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/src/routes/Home/components/" (22527 35434 0 0) "OfferListInfo.js" "HomeView.scss" "HomeView.js" ".DS_Store" "../" "./")
+
+ ("/Users/ryanwatkins/projects/dev/phoenix/eslint-plugin/" (22527 42506 0 0) "plugin.js" "../" "./")
+
+ ("/Users/ryanwatkins/redux/examples/counter/src/components/" (22525 58991 0 0) "Counter.spec.js" "Counter.js" "../" "./")
+
+ ("/Users/ryanwatkins/redux/examples/todomvc/src/containers/" (22525 60779 0 0) "App.js" "../" "./")
+
+ ("/Users/ryanwatkins/redux/examples/todomvc/src/components/" (22525 61080 0 0) "TodoTextInput.spec.js" "TodoTextInput.js" "TodoItem.spec.js" "TodoItem.js" "MainSection.spec.js" "MainSection.js" "Header.spec.js" "Header.js" "Footer.spec.js" "Footer.js" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
