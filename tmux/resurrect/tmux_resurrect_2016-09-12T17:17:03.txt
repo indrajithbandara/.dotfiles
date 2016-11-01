@@ -1,0 +1,11 @@
+pane	prezto	0	:SLP-44	1	:*	0	:/Users/ryanwatkins/projects/dev/phoenix	1	zsh	:
+pane	prezto	0	:SLP-44	1	:*	1	:/Users/ryanwatkins/projects/dev/phoenix	0	node	:npm   
+pane	prezto	0	:SLP-44	1	:*	2	:/Users/ryanwatkins	0	zsh	:
+pane	prezto	1	:zsh	0	:-	0	:/Users/ryanwatkins/projects/dev/phoenix	1	zsh	:
+pane	prezto	2	:go-code	0	:	0	:/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/sixtgoorange/com.sixt.api.v1.apps	1	zsh	:
+pane	prezto	3	:go_in_action	0	:	0	:/Users/ryanwatkins	1	mupdf-x11	:mupdf-x11 projects/books/go_in_action.pdf
+window	prezto	0	1	:*	320b,223x58,0,0{166x58,0,0,109,56x58,167,0[56x18,167,0,8,56x39,167,19,35]}
+window	prezto	1	0	:-	f3f1,223x58,0,0,202
+window	prezto	2	0	:	cea1,223x58,0,0,4
+window	prezto	3	0	:	e77f,223x58,0,0,20
+state	prezto	

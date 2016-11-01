@@ -1,0 +1,14 @@
+pane	prezto	0	:SLP-44	0	:	0	:/Users/ryanwatkins/projects/dev/phoenix	0	vim	:vim
+pane	prezto	0	:SLP-44	0	:	1	:/Users/ryanwatkins/projects/dev/phoenix	1	node	:npm   
+pane	prezto	1	:books	0	:	0	:/Users/ryanwatkins/projects/books	1	zsh	:mupdf-x11 redux-without-profanity.pdf
+pane	prezto	2	:zsh	0	:	0	:/Users/ryanwatkins	1	zsh	:
+pane	prezto	3	:vim	1	:*	0	:/Users/ryanwatkins	1	vim	:vim /Users/ryanwatkins/.tmux.conf
+pane	prezto	4	:top	0	:-	0	:/Users/ryanwatkins	1	htop	:htop
+pane	prezto	5	:irc	0	:	0	:/Users/ryanwatkins	1	irssi	:irssi --connect freenode.org
+window	prezto	0	0	:	a531,236x53,0,0{156x53,0,0,1,79x53,157,0,2}
+window	prezto	1	0	:	5e63,236x53,0,0,14
+window	prezto	2	0	:	af62,236x53,0,0,103
+window	prezto	3	1	:*	5e6b,236x53,0,0,98
+window	prezto	4	0	:-	de65,236x53,0,0,45
+window	prezto	5	0	:	de66,236x53,0,0,46
+state	prezto	

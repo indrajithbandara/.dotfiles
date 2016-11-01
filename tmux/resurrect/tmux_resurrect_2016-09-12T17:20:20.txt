@@ -1,0 +1,9 @@
+pane	prezto	0	:vim	1	:*	0	:/Users/ryanwatkins/projects/dev/phoenix	1	vim	:vim
+pane	prezto	0	:vim	1	:*	1	:/Users/ryanwatkins/projects/dev/phoenix	0	zsh	:
+pane	prezto	0	:vim	1	:*	2	:/Users/ryanwatkins	0	zsh	:
+pane	prezto	2	:go-code	0	:-	0	:/Users/ryanwatkins/projects/dev/golang/src/bitbucket.org/sixtgoorange/com.sixt.api.v1.apps	1	zsh	:
+pane	prezto	3	:go_in_action	0	:	0	:/Users/ryanwatkins	1	zsh	:
+window	prezto	0	1	:*	6808,226x56,0,0{159x56,0,0,2,66x56,160,0[66x22,160,0,3,66x33,160,23,4]}
+window	prezto	2	0	:-	c822,226x56,0,0,5
+window	prezto	3	0	:	c823,226x56,0,0,6
+state	prezto	

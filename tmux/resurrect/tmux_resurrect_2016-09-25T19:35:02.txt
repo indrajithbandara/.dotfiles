@@ -1,0 +1,11 @@
+pane	prezto	0	:vim	0	:	0	:/Users/ryanwatkins/projects/dev/phoenix	1	vim	:vim -S
+pane	prezto	1	:books	0	:	0	:/Users/ryanwatkins/projects/books	1	zsh	:
+pane	prezto	2	:zsh	0	:-	0	:/Users/ryanwatkins	1	zsh	:
+pane	prezto	4	:top	1	:*	0	:/Users/ryanwatkins	1	htop	:htop
+pane	prezto	6	:irc	0	:	0	:/Users/ryanwatkins	1	irssi	:irssi
+window	prezto	0	0	:	c97e,125x28,0,0,1
+window	prezto	1	0	:	c97f,125x28,0,0,2
+window	prezto	2	0	:-	e4f2,125x28,0,0,61
+window	prezto	4	1	:*	c980,125x28,0,0,3
+window	prezto	6	0	:	c981,125x28,0,0,4
+state	prezto	

@@ -1,0 +1,3 @@
+pane	prezto	0	:htop	1	:*	0	:/Users/ryanwatkins	1	htop	:htop
+window	prezto	0	1	:*	6373,100x28,0,0,52
+state	prezto	
