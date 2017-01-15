@@ -1,0 +1,128 @@
+clear
+
+make test
+go fmt ./...
+make test
+make test
+go fmt ./...
+make test
+make test
+go fmt ./...
+make test
+go fmt ./...
+make test
+go fmt ./...
+make test
+=== RUN   TestStationOutOfHoursDataPresent
+go fmt ./...
+make test
+make test
+--- PASS: TestOpeningHoursMainKeysPresent (0.00s)
+make test
+make test
+clear
+
+cd
+git clone -b master git://git.sv.gnu.org/emacs.git
+ls
+clear
+
+ls
+cd emacs.RYAN/
+cd ..
+cd emacs
+ls
+clear
+
+./autogen.sh 
+./autogen.sh git
+./configure 
+make
+ls
+cd
+ls
+clear
+
+fdisk -l
+disk list
+fdisk list
+diskutil list
+ls
+clear
+
+diskutil list
+diskutil list
+fdisk /dev/disk2
+sudo fdisk /dev/disk2
+clear
+
+mpv https://www.youtube.com/watch?v=T5seU-5U0ms &
+ls
+clear
+
+curl http://bib.oxfordjournals.org/content/early/2016/12/31/bib.bbw130.full.pdf -O projects/books/
+curl http://bib.oxfordjournals.org/content/early/2016/12/31/bib.bbw130.full.pdf -o projects/books/
+curl http://bib.oxfordjournals.org/content/early/2016/12/31/bib.bbw130.full.pdf -o projects/books/lisp_bioinformatics.pdf
+ls
+clear
+
+cd projects/books/
+ls
+mkdir comm_theory
+mkdir interview
+mv genesis-of-lisp-jmc.pdf lisp/.
+ls lisp
+mv lisp_guide_classic.pdf lisp/.
+ls
+mv shannon_theory_commu.djvu comm_theory/.
+mv Nayak99b.pdf quantum/.
+mkdir medicine
+ls
+mkdir physics
+mv Gerald\ Jay\ Sussman,\ Jack\ Wisdom\ Structure\ and\ interpretation\ of\ classical\ mechanics.djvu classical_mechanics.djvu
+mv classical_mechanics.djvu physics/.
+ls
+mv Marc\ S.\ Sabatine\ Pocket\ Medicine\ The\ Massachusetts\ General\ Hospital\ Handbook\ of\ Internal\ Medicine.pdf mit_internal_medicine.pdf
+mv mit_internal_medicine.pdf medicine/.
+ls
+mv Benjamin\ C.\ Pierce\ Basic\ Category\ Theory\ for\ Computer\ Scientists\ Foundations\ of\ Computing\ .djvu category_theory_cs.djvu
+mv category_theory_cs.djvu maths/.
+ls
+mv lisp_bioinformatics.pdf lisp/.
+ls
+mkidr latin
+mv coding_interview.pdf interview/.
+mkdir latin
+mv wheelock_latin.pdf latin/.
+ls
+rm clear 
+ls
+clear
+
+ls
+cd
+ls
+cd projects/dev/emacs/
+ls
+cd emacs.d/
+ls
+ls ~/.emacs.d/
+cd ..
+ls
+git clone https://github.com/watkinsr/.dotfiles
+ls
+cd .dotfiles/
+ls
+rm -rf emacs
+ls
+mv ../emacs.d .
+ls
+git status
+git add .
+git commit -m "update emacs.d"
+ls
+git push origin
+ls
+ls emacs.d/
+git add .
+exit
